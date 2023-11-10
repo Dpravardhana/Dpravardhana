@@ -1,6 +1,6 @@
 👋 Hi, I’m Dharma Pravardhana
 
-Portfolio: https://dpravardhana.github.io/
+https://dpravardhana.github.io/
 
 <!---
 Dpravardhana/Dpravardhana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
